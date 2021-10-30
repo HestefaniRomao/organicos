@@ -8,3 +8,9 @@ header img {
     height: 400px;
     object-fit: cover;
 }
+
+#menu-container{
+    background-color: darkgray;
+    width: 960px;
+    position:20 ;
+}
