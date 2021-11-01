@@ -14,3 +14,19 @@ header img {
     width: 960px;
     position:20 ;
 }
+
+.container{ 
+    display: flex;
+    flex-flow: row wrap;
+
+}
+
+.box-frutas {
+    width: 15%;
+    min-width: 300px;
+
+
+}
+.box-frutas img{
+    max-width: 200px;
+}
